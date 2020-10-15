@@ -1,0 +1,35 @@
+.single-order{
+    background-color:#FFFFFF;
+    border-radius: 10px;
+    word-wrap: break-word;
+}
+.pending{
+    background-color:#FFE3E3;
+    width: 108px;
+    border-radius: 5px;
+    color: #FF4545;
+    font-size: 16px;
+    height: 30px;
+    text-align: center;
+    padding: 5px;
+}
+.done{
+    background-color: #C6FFE0;
+    width: 108px;
+    border-radius: 5px;
+    color:  #009444;
+    font-size: 16px;
+    height: 30px;
+    text-align: center;
+    padding: 5px;
+}
+.On-going{
+    background-color: #FFBD3E;
+    width: 108px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 16px;
+    height: 30px;
+    text-align: center;
+    padding: 5px;
+}

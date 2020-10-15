@@ -1,0 +1,23 @@
+.add-service{
+     background-color: #FFFFFF;
+     width: 95%;
+     border-radius: 10px;
+}
+.btn-submit{
+    background-color: #009444;
+    color: white;
+    width:110px;
+}
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid  #009444;
+    background-color: #DEFFED;
+    box-sizing: border-box;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 6px 12px;
+    width: 100%;
+    overflow: hidden;
+}

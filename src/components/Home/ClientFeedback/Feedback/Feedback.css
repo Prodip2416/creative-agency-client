@@ -1,0 +1,8 @@
+.client-review{
+    height: 200px;
+    border: 1px solid #BFBFBF;
+    box-sizing: border-box;
+    border-radius: 4px;
+    overflow: hidden;
+    /* word-wrap: break-word; */
+}

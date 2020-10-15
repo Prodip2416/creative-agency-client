@@ -1,0 +1,11 @@
+.service-box{
+    word-wrap: break-word;
+    overflow: hidden;
+}
+.service-box:hover{
+    background-color:  #FFFFFF;
+    box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    z-index: 10;
+    cursor: pointer;
+}
